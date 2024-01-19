@@ -11,7 +11,7 @@ This project uses Express.js for routing, MongoDB as the database, and Mongoose 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo Video](#demo-video)
-- [Contributing](#contributing)
+- [Contributers](#contributers)
 - [License](#license)
 
 ## Installation
