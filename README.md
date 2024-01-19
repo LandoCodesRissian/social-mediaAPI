@@ -64,5 +64,8 @@ Here is a walkthrough of a basic use of [this API](https://drive.google.com/file
 ## Contributers
 [Me!](https://github.com/LandonP172)
 
+## Note
+I started with a new repo using code I had done in [this](https://github.com/LandonP172/socialNetworkDb) repo as it was getting messy and I was having seeding issues but when I created the new repo my seeding issue was solved, not sure what was causing the problem.
+
 ## License
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
